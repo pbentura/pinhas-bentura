@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8aea96-1f4d-48f3-a0a0-738069a67df1" name="Changes" comment="">
+    <list default="true" id="6c8aea96-1f4d-48f3-a0a0-738069a67df1" name="Changes" comment="Onglet &quot;a propos&quot; complet">
+      <change afterPath="$PROJECT_DIR$/assets/css/timeline.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poulet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/noscript.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +21,13 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -23,12 +36,16 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2ilzsvJdnaxNQtlrxCQVa41IwN7" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -39,6 +56,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -66,11 +84,69 @@
       <workItem from="1720080911535" duration="1106000" />
       <workItem from="1720084628646" duration="4476000" />
       <workItem from="1720089454963" duration="20169000" />
-      <workItem from="1721046056406" duration="582000" />
+      <workItem from="1721046056406" duration="1937000" />
+      <workItem from="1721048034843" duration="145000" />
+      <workItem from="1721048239179" duration="1223000" />
+      <workItem from="1721049500779" duration="3337000" />
+      <workItem from="1721115556318" duration="657000" />
+      <workItem from="1721645039679" duration="203000" />
+      <workItem from="1721646808873" duration="11000" />
+      <workItem from="1726473861984" duration="2342000" />
+      <workItem from="1726478400253" duration="337000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1721046725429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721046725429</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ajout de la présentation">
+      <option name="closed" value="true" />
+      <created>1721049220749</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721049220749</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ajout de la présentation">
+      <option name="closed" value="true" />
+      <created>1721049435853</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721049435853</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Onglet &quot;a propos&quot; complet">
+      <option name="closed" value="true" />
+      <created>1721055192095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721055192095</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="Ajout de la présentation" />
+    <MESSAGE value="Onglet &quot;a propos&quot; complet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Onglet &quot;a propos&quot; complet" />
   </component>
 </project>
