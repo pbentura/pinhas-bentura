@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8aea96-1f4d-48f3-a0a0-738069a67df1" name="Changes" comment="ajout parcours">
+    <list default="true" id="6c8aea96-1f4d-48f3-a0a0-738069a67df1" name="Changes" comment="Correction de la position de la div">
+      <change afterPath="$PROJECT_DIR$/assets/images/newLogoGeraud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/pageHomeVeliko.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logoGeraud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic03.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,30 +40,34 @@
   <component name="ProjectId" id="2ilzsvJdnaxNQtlrxCQVa41IwN7" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/Portfolio/Mon-portfolio&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/User/Documents/Portfolio/Portfolio/assets/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Portfolio\Portfolio\assets\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\p.bentura\Documents\Portfolio\assets" />
       <recent name="C:\Users\User\Documents\Portfolio\Mon-portfolio\assets\doc" />
@@ -94,7 +105,7 @@
       <workItem from="1726739894639" duration="5164000" />
       <workItem from="1727182578481" duration="385000" />
       <workItem from="1727201875079" duration="15000" />
-      <workItem from="1728465279864" duration="1832000" />
+      <workItem from="1728465279864" duration="5241000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -144,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726501831022</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Correction de la position de la div">
+      <option name="closed" value="true" />
+      <created>1728467260109</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728467260109</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +186,7 @@
     <MESSAGE value="Onglet &quot;a propos&quot; complet" />
     <MESSAGE value="ajout timeline" />
     <MESSAGE value="ajout parcours" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout parcours" />
+    <MESSAGE value="Correction de la position de la div" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction de la position de la div" />
   </component>
 </project>
