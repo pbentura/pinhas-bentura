@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8aea96-1f4d-48f3-a0a0-738069a67df1" name="Changes" comment="site responsive" />
+    <list default="true" id="6c8aea96-1f4d-48f3-a0a0-738069a67df1" name="Changes" comment="Ajout compétences et readme">
+      <change afterPath="$PROJECT_DIR$/assets/doc/tabSynthese.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/doc/competence.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,10 +26,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="pasmaster" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\Users\User\scoop\shims\php.exe" />
   <component name="ProjectColorInfo">{
@@ -100,8 +108,11 @@
       <workItem from="1727201875079" duration="15000" />
       <workItem from="1728465279864" duration="7436000" />
       <workItem from="1729509761247" duration="1953000" />
-      <workItem from="1730831412272" duration="3667000" />
-      <workItem from="1731575294458" duration="5059000" />
+      <workItem from="1730831412272" duration="6133000" />
+      <workItem from="1730845416717" duration="3088000" />
+      <workItem from="1731493521447" duration="4071000" />
+      <workItem from="1731605211446" duration="853000" />
+      <workItem from="1731606366448" duration="462000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -167,29 +178,29 @@
       <option name="project" value="LOCAL" />
       <updated>1728470699002</updated>
     </task>
-    <task id="LOCAL-00009" summary="petit réglage">
+    <task id="LOCAL-00009" summary="Ajout compétences et projets">
       <option name="closed" value="true" />
-      <created>1731575812412</created>
+      <created>1730835174579</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1731575812414</updated>
+      <updated>1730835174579</updated>
     </task>
-    <task id="LOCAL-00010" summary="petit réglage">
+    <task id="LOCAL-00010" summary="Ajout compétences et projets">
       <option name="closed" value="true" />
-      <created>1731589781377</created>
+      <created>1730835308647</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1731589781377</updated>
+      <updated>1730835308647</updated>
     </task>
-    <task id="LOCAL-00011" summary="site responsive">
+    <task id="LOCAL-00011" summary="Ajout compétences et readme">
       <option name="closed" value="true" />
-      <created>1731590276196</created>
+      <created>1731497176516</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1731590276196</updated>
+      <updated>1731497176516</updated>
     </task>
     <option name="localTasksCounter" value="12" />
     <servers />
@@ -198,11 +209,38 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -216,8 +254,8 @@
     <MESSAGE value="ajout parcours" />
     <MESSAGE value="Correction de la position de la div" />
     <MESSAGE value="Ajout nouvelles images" />
-    <MESSAGE value="petit réglage" />
-    <MESSAGE value="site responsive" />
-    <option name="LAST_COMMIT_MESSAGE" value="site responsive" />
+    <MESSAGE value="Ajout compétences et projets" />
+    <MESSAGE value="Ajout compétences et readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout compétences et readme" />
   </component>
 </project>
