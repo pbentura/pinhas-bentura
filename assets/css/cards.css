@@ -9,7 +9,7 @@
     background: #4169e1;
     border-radius: 8px;
     padding: 20px;
-    width: 30%; /* Ajuste la largeur pour afficher 3 cartes par ligne */
+    width: 30%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     text-align: center;
     transition: transform 0.3s, box-shadow 0.3s;
@@ -53,8 +53,8 @@
 }
 
 .project-images img {
-    width: 270px;
-    height: 270px;
+    width: 365px;
+    height: 365px;
     object-fit: cover;
     border-radius: 8px;
     transition: transform 0.3s;
