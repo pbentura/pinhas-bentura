@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8aea96-1f4d-48f3-a0a0-738069a67df1" name="Changes" comment="Ajout compétences et readme">
-      <change afterPath="$PROJECT_DIR$/assets/doc/tabSynthese.xlsx" afterDir="false" />
+    <list default="true" id="6c8aea96-1f4d-48f3-a0a0-738069a67df1" name="Changes" comment="tableau synthèse">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/doc/competence.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +109,8 @@
       <workItem from="1730845416717" duration="3088000" />
       <workItem from="1731493521447" duration="4071000" />
       <workItem from="1731605211446" duration="853000" />
-      <workItem from="1731606366448" duration="462000" />
+      <workItem from="1731606366448" duration="555000" />
+      <workItem from="1731659699244" duration="42000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -202,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731497176516</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="tableau synthèse">
+      <option name="closed" value="true" />
+      <created>1731606909289</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731606909289</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +262,7 @@
     <MESSAGE value="Ajout nouvelles images" />
     <MESSAGE value="Ajout compétences et projets" />
     <MESSAGE value="Ajout compétences et readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout compétences et readme" />
+    <MESSAGE value="tableau synthèse" />
+    <option name="LAST_COMMIT_MESSAGE" value="tableau synthèse" />
   </component>
 </project>
