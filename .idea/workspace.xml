@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8aea96-1f4d-48f3-a0a0-738069a67df1" name="Changes" comment="amélioration cv et tabSynthese">
-      <change afterPath="$PROJECT_DIR$/assets/images/authGoogleMysubs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/dashboardMysubs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/loginMysubs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/lstAboMysubs.png" afterDir="false" />
+    <list default="true" id="6c8aea96-1f4d-48f3-a0a0-738069a67df1" name="Changes" comment="ajouts projets">
+      <change afterPath="$PROJECT_DIR$/assets/images/velikoJavaMap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/velikoJavaTab.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -133,6 +131,8 @@
       <workItem from="1740655259752" duration="759000" />
       <workItem from="1740661306234" duration="1318000" />
       <workItem from="1740730990055" duration="6000" />
+      <workItem from="1741767281097" duration="1083000" />
+      <workItem from="1741768910522" duration="1234000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -238,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731838363317</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="ajouts projets">
+      <option name="closed" value="true" />
+      <created>1741767308540</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1741767308540</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,6 +301,7 @@
     <MESSAGE value="Ajout compétences et projets" />
     <MESSAGE value="Ajout compétences et readme" />
     <MESSAGE value="tableau synthèse" />
-    <option name="LAST_COMMIT_MESSAGE" value="tableau synthèse" />
+    <MESSAGE value="ajouts projets" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajouts projets" />
   </component>
 </project>
