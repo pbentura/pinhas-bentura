@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8aea96-1f4d-48f3-a0a0-738069a67df1" name="Changes" comment="tableau synthèse">
-      <change beforePath="$PROJECT_DIR$/assets/doc/CV-Pinhas-Bentura.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/doc/CV-Pinhas-Bentura.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/doc/tabSynthese.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/assets/doc/tabSynthese.xlsx" afterDir="false" />
+    <list default="true" id="6c8aea96-1f4d-48f3-a0a0-738069a67df1" name="Changes" comment="amélioration cv et tabSynthese">
+      <change afterPath="$PROJECT_DIR$/assets/images/authGoogleMysubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/dashboardMysubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/loginMysubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/lstAboMysubs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +36,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "pbentura"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pbentura&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:pbentura/pinhas-bentura.git",
-    "accountId": "fb47f51b-6766-455f-a5ff-a670dab0d6ab"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:pbentura/pinhas-bentura.git&quot;,
+    &quot;accountId&quot;: &quot;fb47f51b-6766-455f-a5ff-a670dab0d6ab&quot;
   }
-}]]></component>
+}</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\Users\User\scoop\shims\php.exe" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -57,25 +61,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/Desktop/pinhas-bentura/assets/doc",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/pinhas-bentura/assets/doc&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\pinhas-bentura\assets\doc" />
@@ -127,6 +131,8 @@
       <workItem from="1731659699244" duration="42000" />
       <workItem from="1731838350337" duration="624000" />
       <workItem from="1740655259752" duration="759000" />
+      <workItem from="1740661306234" duration="1318000" />
+      <workItem from="1740730990055" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
