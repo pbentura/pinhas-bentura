@@ -80,8 +80,8 @@
 }
 
 .project-images img {
-    width: 365px; /* Largeur d'image ajustée */
-    height: 365px; /* Hauteur d'image ajustée */
+    width: 100%; /* Largeur d'image ajustée */
+    height: 100%; /* Hauteur d'image ajustée */
     object-fit: cover;
     border-radius: 8px;
     transition: transform 0.3s;

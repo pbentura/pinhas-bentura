@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8aea96-1f4d-48f3-a0a0-738069a67df1" name="Changes" comment="ajouts projets">
-      <change afterPath="$PROJECT_DIR$/assets/images/velikoJavaMap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/velikoJavaTab.png" afterDir="false" />
+    <list default="true" id="6c8aea96-1f4d-48f3-a0a0-738069a67df1" name="Changes" comment="ajouts compétence">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/cards.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +130,10 @@
       <workItem from="1740661306234" duration="1318000" />
       <workItem from="1740730990055" duration="6000" />
       <workItem from="1741767281097" duration="1083000" />
-      <workItem from="1741768910522" duration="1234000" />
+      <workItem from="1741768910522" duration="5071000" />
+      <workItem from="1741856830952" duration="8000" />
+      <workItem from="1742130624164" duration="1633000" />
+      <workItem from="1742906276287" duration="822000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -246,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741767308540</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="ajouts compétence">
+      <option name="closed" value="true" />
+      <created>1741771324782</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1741771324782</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,6 +311,7 @@
     <MESSAGE value="Ajout compétences et readme" />
     <MESSAGE value="tableau synthèse" />
     <MESSAGE value="ajouts projets" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajouts projets" />
+    <MESSAGE value="ajouts compétence" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajouts compétence" />
   </component>
 </project>
